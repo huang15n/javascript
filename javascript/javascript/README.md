@@ -4,14 +4,6 @@ A javascript repo which constitutes basic javascript crash concept, extensive ja
 
 
 disclaimer: 
-some commited errors on the github result from : error: failed to push some refs to 'https://github.com/huang15n/javascript_series'
-xxxxx:javascript_series eddiehuang$ git push origin master 
-error: src refspec master does not match any.
-
-xxxx:javascript_series eddiehuang$ git push origin main
-remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/huang15n/javascript_series/'
-
 now use git push origin master 
 
 
